@@ -1,4 +1,4 @@
-package pl.stefan.springboot.configuration;
+package com.websystique.springboot.configuration;
 
 import com.zaxxer.hikari.HikariDataSource;
 import org.apache.commons.lang3.StringUtils;

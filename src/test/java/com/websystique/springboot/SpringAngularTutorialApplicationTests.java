@@ -1,4 +1,4 @@
-package pl.stefan.springboot;
+package com.websystique.springboot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
